@@ -2,6 +2,11 @@
 
 baseURL: https://labset-sae.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 20434dff-1fb5-470f-b9df-5fbdd7520dfa
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
